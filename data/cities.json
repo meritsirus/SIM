@@ -1,0 +1,9 @@
+[
+  {
+    "id": "north_fortress",
+    "name": "Северная крепость",
+    "tags": ["fortress", "shop_weapon_limited"],
+    "innCost": 1,
+    "tavernEntry": 3
+  }
+]
