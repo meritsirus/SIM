@@ -1,0 +1,7 @@
+[
+  { "id": "dagger",       "kind": "weapon", "name": "Кинжал",       "weight": 1, "attackBonus": "+0",  "damage": 3, "tags": [] },
+  { "id": "sword",        "kind": "weapon", "name": "Меч",          "weight": 3, "attackBonus": "+0",  "damage": 4, "tags": [] },
+  { "id": "heavy_sword",  "kind": "weapon", "name": "Тяжёлый меч",  "weight": 5, "attackBonus": "+0",  "damage": 5, "allowedClasses": ["warrior"], "tags": [] },
+  { "id": "round_shield", "kind": "armor",  "name": "Круглый щит",  "weight": 2, "defenceBonus": 1, "tags": [] },
+  { "id": "ration",       "kind": "consumable", "name": "Рацион (6 дней)", "weight": 1, "effect": "restore_food", "tags": ["food"] }
+]
